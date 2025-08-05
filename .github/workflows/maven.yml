@@ -1,7 +1,7 @@
 
 
 
-name: Java Maven Build & Publish Artifact
+name: Java Maven Build Artifact
 
 on:
   workflow_dispatch:
