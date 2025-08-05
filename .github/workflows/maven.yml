@@ -16,6 +16,6 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
           cache: maven
-      - run: mvn -B clean package
+      - run: mvn clean package
       - run: ls -lrt target/
 
